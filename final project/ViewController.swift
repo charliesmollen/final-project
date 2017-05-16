@@ -52,6 +52,7 @@ class ViewController: UIViewController {
         
         
         
+        
     }
     
 // Button 2
@@ -69,6 +70,7 @@ class ViewController: UIViewController {
         NSLog("Wrong")
             points -= 1
     }
+        
     }
     
 // Button 3

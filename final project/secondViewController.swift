@@ -19,6 +19,7 @@ class secondViewController: ViewController {
    
     override func viewDidLoad() {
         
+        
         totalScore = "Your final score is \(points)."
         super.viewDidLoad()
         
